@@ -1,0 +1,46 @@
+﻿  AudioUtils.cpp
+  cAudioManager.cpp
+D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\cAudioManager.cpp(298,43): warning C4244: '=': conversion from 'FMOD_RESULT' to 'float', possible loss of data
+D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\cAudioManager.cpp(305,42): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\cAudioManager.cpp(316,42): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\cAudioManager.cpp(318,42): warning C4305: '=': truncation from 'double' to 'float'
+D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\cAudioManager.cpp(375,60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\cAudioManager.cpp(382,43): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\cAudioManager.cpp(406,43): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\cAudioManager.cpp(471,40): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\cAudioManager.cpp(495,40): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:             _Elem=char
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         ]
+  (compiling source file 'cAudioManager.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53):
+  the template instantiation context (the oldest one first) is
+  	D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\cAudioManager.cpp(54,69):
+  	see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  		D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\cAudioManager.cpp(54,32):
+  		see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'cAudioManager::loadAssets'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2590,17):
+  	see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+  
+  cMediaPlayer.cpp
+D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\cMediaPlayer.cpp(150,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\cMediaPlayer.cpp(152,27): warning C4018: '<': signed/unsigned mismatch
+  FMODInitialization.cpp
+  FMOD_SETUP.cpp
+  Generating Code...
+  FMOD_SETUP.vcxproj -> D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\x64\Debug\FMOD_SETUP.exe

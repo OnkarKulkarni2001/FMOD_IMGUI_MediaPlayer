@@ -1,0 +1,3 @@
+D:\Media Fundamentals\MediaPlayer\x64\Debug\FMOD_SETUP.exe
+D:\Media Fundamentals\MediaPlayerTrackLocation\x64\Debug\FMOD_SETUP.exe
+D:\Media Fundamentals\Project1\MediaPlayer_Command_Line_Interface\x64\Debug\FMOD_SETUP.exe
