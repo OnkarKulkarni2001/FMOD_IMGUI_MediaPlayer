@@ -1,3 +1,0 @@
-﻿  cMediaPlayer.cpp
-cMediaPlayer.obj : error LNK2001: unresolved external symbol __imp_glClear
-D:\Media Fundamentals\MediaPlayerWithGUI\x64\Release\FMOD_SETUP.exe : fatal error LNK1120: 1 unresolved externals

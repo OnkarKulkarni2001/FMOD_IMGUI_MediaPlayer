@@ -1,3 +1,0 @@
-﻿  FMOD_SETUP.cpp
-C:\Users\aaron\Desktop\Media_Fundamentals\Week_01\Code\FMOD_SETUP\FMOD_SETUP.cpp(8,17): warning C4101: 'channel_create': unreferenced local variable
-  FMOD_SETUP.vcxproj -> C:\Users\aaron\Desktop\Media_Fundamentals\Week_01\Code\FMOD_SETUP\x64\Debug\FMOD_SETUP.exe
