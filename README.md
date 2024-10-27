@@ -2,8 +2,6 @@
 
 Onkar Parag Kulkarni
 
-Student ID: 1286580
-
 ---
 
 Please open this read.me file in readme viewer for better experience!😉
