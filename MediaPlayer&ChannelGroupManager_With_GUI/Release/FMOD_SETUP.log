@@ -1,0 +1,55 @@
+﻿cAudioManager.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::System::playSound(class FMOD::Sound *,class FMOD::ChannelGroup *,bool,class FMOD::Channel * *)" (?playSound@System@FMOD@@QAG?AW4FMOD_RESULT@@PAVSound@2@PAVChannelGroup@2@_NPAPAVChannel@2@@Z)
+cAudioManager.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::System::createSound(char const *,unsigned int,struct FMOD_CREATESOUNDEXINFO *,class FMOD::Sound * *)" (?createSound@System@FMOD@@QAG?AW4FMOD_RESULT@@PBDIPAUFMOD_CREATESOUNDEXINFO@@PAPAVSound@2@@Z)
+cAudioManager.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::System::update(void)" (?update@System@FMOD@@QAG?AW4FMOD_RESULT@@XZ)
+cAudioManager.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::Sound::release(void)" (?release@Sound@FMOD@@QAG?AW4FMOD_RESULT@@XZ)
+cAudioManager.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::ChannelControl::setPan(float)" (?setPan@ChannelControl@FMOD@@QAG?AW4FMOD_RESULT@@M@Z)
+cAudioManager.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::ChannelControl::isPlaying(bool *)" (?isPlaying@ChannelControl@FMOD@@QAG?AW4FMOD_RESULT@@PA_N@Z)
+cAudioManager.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::ChannelControl::setPitch(float)" (?setPitch@ChannelControl@FMOD@@QAG?AW4FMOD_RESULT@@M@Z)
+cAudioManager.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::ChannelControl::setVolume(float)" (?setVolume@ChannelControl@FMOD@@QAG?AW4FMOD_RESULT@@M@Z)
+cAudioManager.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::ChannelControl::getPaused(bool *)" (?getPaused@ChannelControl@FMOD@@QAG?AW4FMOD_RESULT@@PA_N@Z)
+cAudioManager.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::ChannelControl::setPaused(bool)" (?setPaused@ChannelControl@FMOD@@QAG?AW4FMOD_RESULT@@_N@Z)
+cAudioManager.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::ChannelControl::stop(void)" (?stop@ChannelControl@FMOD@@QAG?AW4FMOD_RESULT@@XZ)
+cMediaPlayer.obj : error LNK2001: unresolved external symbol _glfwSwapBuffers
+cMediaPlayer.obj : error LNK2001: unresolved external symbol __imp__glClear@4
+cMediaPlayer.obj : error LNK2001: unresolved external symbol _glfwPollEvents
+cMediaPlayer.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::Sound::getLength(unsigned int *,unsigned int)" (?getLength@Sound@FMOD@@QAG?AW4FMOD_RESULT@@PAII@Z)
+cMediaPlayer.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::Sound::getName(char *,int)" (?getName@Sound@FMOD@@QAG?AW4FMOD_RESULT@@PADH@Z)
+cMediaPlayer.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::Channel::getPosition(unsigned int *,unsigned int)" (?getPosition@Channel@FMOD@@QAG?AW4FMOD_RESULT@@PAII@Z)
+FMODInitialization.obj : error LNK2001: unresolved external symbol _FMOD_System_Create@8
+FMODInitialization.obj : error LNK2001: unresolved external symbol "public: enum FMOD_RESULT __stdcall FMOD::System::init(int,unsigned int,void *)" (?init@System@FMOD@@QAG?AW4FMOD_RESULT@@HIPAX@Z)
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwGetClipboardString
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwGetInputMode
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwGetWindowAttrib
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwGetTime
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwGetKey
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwSetMonitorCallback
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwGetFramebufferSize
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwSetClipboardString
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwSetCursorEnterCallback
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwGetWindowSize
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwSetMouseButtonCallback
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwSetCursor
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwDestroyCursor
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwSetKeyCallback
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwSetScrollCallback
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwSetInputMode
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwCreateStandardCursor
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwGetError
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwSetCursorPos
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwGetWin32Window
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwGetGamepadState
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwSetCursorPosCallback
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwGetKeyName
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwGetCursorPos
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwSetWindowFocusCallback
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwSetErrorCallback
+imgui_impl_glfw.obj : error LNK2001: unresolved external symbol _glfwSetCharCallback
+GUIInitialization.obj : error LNK2001: unresolved external symbol _glfwSwapInterval
+GUIInitialization.obj : error LNK2001: unresolved external symbol _glfwTerminate
+GUIInitialization.obj : error LNK2001: unresolved external symbol _glfwInit
+GUIInitialization.obj : error LNK2001: unresolved external symbol _glfwCreateWindow
+GUIInitialization.obj : error LNK2001: unresolved external symbol _glfwWindowHint
+GUIInitialization.obj : error LNK2001: unresolved external symbol _glfwMakeContextCurrent
+GUIInitialization.obj : error LNK2001: unresolved external symbol _glfwDestroyWindow
+GUIInitialization.obj : error LNK2001: unresolved external symbol _glfwGetProcAddress
+D:\Media Fundamentals\MediaPlayerWithGUI\Release\FMOD_SETUP.exe : fatal error LNK1120: 54 unresolved externals
