@@ -52,13 +52,13 @@ I have used several different libraries like GLFW, GLAD, IMGUI, KHR just for the
 
 5) Command line interface will pop-up but just ignore it this time and click on the new window which shows GUI and then it asks for the folder path wherever you have songs.
 
-6) Put the folder path without double or single quotes like if the path looks like this ➡️ "C:\Users\onkar\Downloads" then you should enter it like this ➡️ C:\Users\onkar\Downloads. ![Screenshot](MediaPlayer_With_GUI/GUI.png)
+6) Put the folder path without double or single quotes like if the path looks like this ➡️ "C:\Users\onkar\Downloads" then you should enter it like this ➡️ C:\Users\onkar\Downloads. ![Screenshot](MediaPlayer_With_GUI/GUI3.png)
 
-7) Wait for all the songs to load. If there are lot of songs in the folder and only few of them are supported formats then also only supported formats will be loaded.
+7) Wait for all the songs to load. If there are lot of songs in the folder and only few of them are supported formats then also only supported formats will be loaded. ![Screenshot](MediaPlayer_With_GUI/GUI2.png)
 
-8) Whenever user clicks on any of the songs shown in list the song plays. If a song is already playing and user clicks on another song then first song will stop and next will play (Intentionally done).
+8) Whenever user clicks on any of the songs shown in list the song plays. If a song is already playing and user clicks on another song then first song will stop and next will play (Intentionally done). ![Screenshot](MediaPlayer_With_GUI/GUI1.png)
 
-9) Volume, pitch and pan can be set by setting the slider position.
+9) Volume, pitch and pan can be set by setting the slider position. ![Screenshot](MediaPlayer_With_GUI/GUI.png)
 
 10) For Unloading songs two choices are given if user wants to unload a specific song or he/she wants to unload all songs at once.
 
