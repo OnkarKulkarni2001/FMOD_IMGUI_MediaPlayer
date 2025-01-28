@@ -52,7 +52,7 @@ I have used several different libraries like GLFW, GLAD, IMGUI, KHR just for the
 
 5) Command line interface will pop-up but just ignore it this time and click on the new window which shows GUI and then it asks for the folder path wherever you have songs.
 
-6) Put the folder path without double or single quotes like if the path looks like this ➡️ "C:\Users\onkar\Downloads" then you should enter it like this ➡️ C:\Users\onkar\Downloads.
+6) Put the folder path without double or single quotes like if the path looks like this ➡️ "C:\Users\onkar\Downloads" then you should enter it like this ➡️ C:\Users\onkar\Downloads. ![Screenshot](MediaPlayer_With_GUI/GUI.png)
 
 7) Wait for all the songs to load. If there are lot of songs in the folder and only few of them are supported formats then also only supported formats will be loaded.
 
