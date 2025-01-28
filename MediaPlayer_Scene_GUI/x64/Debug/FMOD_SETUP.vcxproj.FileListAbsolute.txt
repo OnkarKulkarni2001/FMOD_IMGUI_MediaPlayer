@@ -1,0 +1,7 @@
+D:\Media Fundamentals\MediaPlayer\x64\Debug\FMOD_SETUP.exe
+D:\Media Fundamentals\MediaPlayerWithGUI\x64\Debug\FMOD_SETUP.exe
+D:\Media Fundamentals\Project1\MediaPlayer_With_GUI\x64\Debug\FMOD_SETUP.exe
+D:\Media Fundamentals\Project1\MediaPlayer&ChannelGroupManager_With_GUI\x64\Debug\FMOD_SETUP.exe
+D:\Media Fundamentals\Project2\MediaPlayer&ChannelGroupManager_With_GUI\x64\Debug\FMOD_SETUP.exe
+D:\Media Fundamentals\Project2\x64\Debug\FMOD_SETUP.exe
+D:\Media Fundamentals\Project1\MediaPlayer_Scene_GUI\x64\Debug\FMOD_SETUP.exe
