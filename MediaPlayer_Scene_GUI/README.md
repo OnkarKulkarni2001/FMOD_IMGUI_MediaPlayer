@@ -14,16 +14,16 @@ Fun Fact: You can use any path for your audio files, still I have provided some 
 
 ### Software Updates
 
-Added channel groups/scenes, Now you can select each scene and click on Play Selected Scene button to play that scene. Also now you can set volume and pitch of each scene as well as distortion and echo values by adjusting the slider of echo and distortion DSPs. ![Screenshot](MediaPlayer_Scene_GUI/GUI.png)
+Added channel groups/scenes, Now you can select each scene and click on Play Selected Scene button to play that scene. Also now you can set volume and pitch of each scene as well as distortion and echo values by adjusting the slider of echo and distortion DSPs. ![Screenshot](GUI.png)
 
 
-You can also see 3D sound position along X and Z axis, as well as you can set the Listener position too! Isn't that awesome? ![Screenshot](MediaPlayer_Scene_GUI/GUI1.png)
+You can also see 3D sound position along X and Z axis, as well as you can set the Listener position too! Isn't that awesome? ![Screenshot](GUI1.png)
 
-Added Scene information showing scene name, volume, pitch, distortion and echo. ![Screenshot](MediaPlayer_Scene_GUI/GUI2.png)
+Added Scene information showing scene name, volume, pitch, distortion and echo. ![Screenshot](GUI2.png)
 
-Now it shows songs available in scene. ![Screenshot](MediaPlayer_Scene_GUI/GUI3.png)
+Now it shows songs available in scene. ![Screenshot](GUI3.png)
 
-You can create your own channel group too! ![Screenshot](MediaPlayer_Scene_GUI/GUI4.png)
+You can create your own channel group too! ![Screenshot](GUI4.png)
 
 Pause, Resume, Stop will now work only on channel group/scene. (Will probably add it for individual sounds in next update, stay tuned!).
 
